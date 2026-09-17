@@ -1,0 +1,13 @@
+img {
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right:auto
+}
+h1 {font-size: 100}
+p {font-size: 20}
+h2 {font-size: 40}
+
+body {
+  background-color: #67acad;
+} 
